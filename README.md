@@ -1,5 +1,6 @@
 # mfc_trajectory_combine
 ###**百度导航轨迹文件分析与合并工具**
+**https://github.com/hongwenjun/GUITrajectoryCombine/raw/master/bin/GUITrajectoryCombine.7z**
 ***
 ####功能说明:
 1.百度导航轨迹文件GPS点导出:
@@ -16,10 +17,10 @@
 ***
 ####使用图文教程:
 
-![image](https://github.com/qianghaohao/mfc_trajectory_combine/raw/master/img/export_demo.png)
-![image](https://github.com/qianghaohao/mfc_trajectory_combine/raw/master/img/trajectory_combine_demo.png)
-![image](https://github.com/qianghaohao/mfc_trajectory_combine/raw/master/img/trajectory_demo.png)
-![image](https://github.com/qianghaohao/mfc_trajectory_combine/raw/master/img/about_tool.png)
+![image](https://github.com/hongwenjun/GUITrajectoryCombine/raw/master/img/export_demo.png)
+![image](https://github.com/hongwenjun/GUITrajectoryCombine/raw/master/img/trajectory_combine_demo.png)
+![image](https://github.com/hongwenjun/GUITrajectoryCombine/raw/master/img/trajectory_demo.png)
+![image](https://github.com/hongwenjun/GUITrajectoryCombine/raw/master/img/about_tool.png)
 ***
 ***
 ####工具实现思路:
